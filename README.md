@@ -1,9 +1,4 @@
 # example
 
-고려대학교 ICT
-
-[link keyword][id]
-[id]: URL "Optional Title here"
-
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+고려대학교 ICT  
+[트와이스](https://youtu.be/V2hlQkVJZhE)  
